@@ -1,0 +1,18 @@
+table{
+    border: 1px solid #c4dcf3;
+    border: hidden;
+    padding: 5px;}
+  
+  td {border: 1px solid #c4dcf3;
+    border: hidden;
+    padding: 10px;}
+  
+  th {
+    border: 1px solid #c4dcf3;
+    border: hidden;
+    padding: 10px;
+    background-color: #427fef;}
+   
+  tfoot {text-align: left;}
+  .one {background-color: #eef7ff;}
+  
